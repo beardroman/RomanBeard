@@ -8,15 +8,9 @@
 
 • Crimson Bot is my current project that I have been working on, You can invite it here [Invite Crimson](https://dsc.gg/invite-crimson)
 
-## My Github Statistics
-
-![My GitHub Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=roman-beard&theme=tokyonight&layout=compact)
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=roman-beard&count_private=true&show_icons=true&theme=tokyonight)
-
 ## Contributors
-- [@](https://github.com/)
-- [@](https://github.com/)
+- [@Andrownaut](https://github.com/Andrownaut)
+- [@AdventuresX0](https://github.com/AdventuresX0)
 
 ## Things I Know
 <p>
