@@ -6,7 +6,7 @@
 
 ## My main projects
 
-• Crimson Bot is my current project that I have been working on, You can invite it here [Invite Crimson](https://dsc.gg/invite-crimson)
+• Crimson Bot is my current project that I have been working on, You can invite it here [Invite Crimson](https://dsc.gg/invite-crimson).
 
 ## Contributors
 - [@Andrownaut](https://github.com/Andrownaut)
