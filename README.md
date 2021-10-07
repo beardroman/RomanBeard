@@ -1,5 +1,4 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, Roman Here!</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Roman-Beard" alt="Roman-Beard" /> </p>
 
 - 🔭 Currently working on [Crimson](https://dsc.gg/invite-crimson)
 - 📫 Join [Crimson's Lounge](https://discord.gg/DFZv2Zh) and check out the bot, maybe invite it aswell?
@@ -23,3 +22,6 @@
 <a href="https://www.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="VisualStudio" width="40em" height="40em"/> </a>
 <a href="https://www.npmjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM JS" width="40em" height="40em"/></a> 
 </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Roman-Beard" alt="Roman-Beard" /> </p>
+<p align="center">🔎 You can reach me on Discord: ++Roman++4319</p>
