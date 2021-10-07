@@ -6,7 +6,7 @@
 - 😇 Keeping it real since 2004!
 
 
-#Crimson - [![Discord Bots](https://discordbots.org/api/widget/status/856656587719180298.svg)](https://discordbots.org/bot/856656587719180298)
+### Crimson - [![Discord Bots](https://discordbots.org/api/widget/status/856656587719180298.svg)](https://discordbots.org/bot/856656587719180298)
 • Crimson is my current project that I have been working on, You can invite it here [Invite Crimson](https://dsc.gg/invite-crimson).
 
 
