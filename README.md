@@ -1,5 +1,4 @@
 # Hey 👋, Roman here!
-[![My stats](https://github-readme-stats.vercel.app/api?username=Roman-Beard)](https://github.com/Roman-Beard/github-readme-stats)
 
 - 🔭 Currently working on [Crimson](https://dsc.gg/invite-crimson)
 - 📫 Join [Crimson's Lounge]() and check out my bot, and maybe invite it?
@@ -23,3 +22,6 @@
 <a href="https://www.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="VisualStudio" width="40em" height="40em"/> </a>
 <a href="https://www.npmjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM JS" width="40em" height="40em"/></a> 
 </p>
+
+##My Stats
+[![My stats](https://github-readme-stats.vercel.app/api?username=Roman-Beard)](https://github.com/Roman-Beard/github-readme-stats)
