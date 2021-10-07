@@ -6,8 +6,10 @@
 - 😇 Keeping it real since 2004!
 
 
-## My main projects
-• Crimson Bot is my current project that I have been working on, You can invite it here [Invite Crimson](https://dsc.gg/invite-crimson).
+## All about Crimson
+[!Discord Bots]
+(https://discordbots.org/api/widget/status/856656587719180298.svg?noavatar=true)]
+• Crimson is my current project that I have been working on, You can invite it here [Invite Crimson](https://dsc.gg/invite-crimson).
 
 
 ## Contributors
