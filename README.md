@@ -1,18 +1,20 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, Roman Here!</h1>
 
+## What am I up to?
 - 🔭 Currently working on [Crimson](https://dsc.gg/invite-crimson)
 - 📫 Join [Crimson's Lounge](https://discord.gg/DFZv2Zh) and check out the bot, maybe invite it aswell?
 - ⚡ Fun Fact: I have a brother that is annoying, he's up for sale.
+- 😇 Keeping it real since 2004!
 
 
 ## My main projects
-
 • Crimson Bot is my current project that I have been working on, You can invite it here [Invite Crimson](https://dsc.gg/invite-crimson).
 
 
 ## Contributors
 - [@Andrownaut](https://github.com/Andrownaut)
 - [@AdventuresX0](https://github.com/AdventuresX0)
+- [@KniferFTW](https://github.com/KniferFTW)
 
 ## Things I Know
 <p>
