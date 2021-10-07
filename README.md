@@ -1,5 +1,5 @@
-# Hey 👋, Roman here!
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Jesse!</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, Roman Here!</h1>
+
 - 🔭 Currently working on [Crimson](https://dsc.gg/invite-crimson)
 - 📫 Join [Crimson's Lounge](https://discord.gg/DFZv2Zh) and check out the bot, maybe invite it aswell?
 - ⚡ Fun Fact: I have a brother that is annoying, he's up for sale.
