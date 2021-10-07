@@ -1,8 +1,8 @@
 # Hey 👋, Roman here!
 
 - 🔭 Currently working on [Crimson](https://dsc.gg/invite-crimson)
-- 📫 Join [Crimson's Lounge]() and check out my bot, and maybe invite it?
-- ⚡ Fun Fact: I have a brother that is annoying.
+- 📫 Join [Crimson's Lounge](https://discord.gg/DFZv2Zh) and check out the bot, maybe invite it aswell?
+- ⚡ Fun Fact: I have a brother that is annoying, he's up for sale.
 
 ## My main projects
 
@@ -23,5 +23,5 @@
 <a href="https://www.npmjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM JS" width="40em" height="40em"/></a> 
 </p>
 
-##My Stats
+## My Stats
 [![My stats](https://github-readme-stats.vercel.app/api?username=Roman-Beard)](https://github.com/Roman-Beard/github-readme-stats)
