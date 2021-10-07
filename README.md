@@ -5,8 +5,6 @@
 - ⚡ Fun Fact: I have a brother that is annoying, he's up for sale.
 - 😇 Keeping it real since 2004!
 
-<h1 align="center">Hi <img src="https://discordbots.org/api/widget/status/856656587719180298.svg" width="40px" />, Roman Here!</h1>
-
 ## Crimson - [![Discord Bots](https://discordbots.org/api/widget/status/856656587719180298.svg)](https://discordbots.org/bot/856656587719180298)
 • Crimson is my current project that I have been working on, You can invite it here [Invite Crimson](https://dsc.gg/invite-crimson).
 
