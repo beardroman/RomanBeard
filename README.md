@@ -1,5 +1,5 @@
-# Hey ![image](https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif), Roman here!
-![image](https://user-images.githubusercontent.com/62947856/136455888-c4a56f6b-8cad-42dc-9f2d-0a9e8e9a346c.png)
+# Hey 👋, Roman here!
+[![My stats](https://github-readme-stats.vercel.app/api?username=Roman-Beard)](https://github.com/Roman-Beard/github-readme-stats)
 
 - 🔭 Currently working on [Crimson](https://dsc.gg/invite-crimson)
 - 📫 Join [Crimson's Lounge]() and check out my bot, and maybe invite it?
