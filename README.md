@@ -1,5 +1,5 @@
 # Hey 👋, Roman here!
-
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Jesse!</h1>
 - 🔭 Currently working on [Crimson](https://dsc.gg/invite-crimson)
 - 📫 Join [Crimson's Lounge](https://discord.gg/DFZv2Zh) and check out the bot, maybe invite it aswell?
 - ⚡ Fun Fact: I have a brother that is annoying, he's up for sale.
@@ -13,10 +13,6 @@
 ## Contributors
 - [@Andrownaut](https://github.com/Andrownaut)
 - [@AdventuresX0](https://github.com/AdventuresX0)
-
-
-## My Stats
-[![My stats](https://github-readme-stats.vercel.app/api?username=Roman-Beard)](https://github.com/Roman-Beard/github-readme-stats)
 
 ## Things I Know
 <p>
